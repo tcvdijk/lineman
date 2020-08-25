@@ -1,0 +1,4 @@
+# This is the bin directory. Don't commit any of this.
+*
+# Except this file
+!.gitignore
